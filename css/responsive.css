@@ -1,0 +1,124 @@
+@media(max-width: 1199px){
+	/* lg */
+}
+
+
+
+
+/* md */
+
+@media(max-width: 991px){
+
+	
+header > .container{ 
+    padding: 50px 0;
+}
+
+.banner-content h1{
+	font-size: 38px;
+	line-height: 50px;
+	
+}
+
+.box-item h2{
+    font-size: 18px;
+    margin: 8px 0;
+
+}
+
+.box-item p{
+	font-size: 14px;
+}
+
+.box-item img{
+	height: 70px;
+}
+.box-item {
+    
+   padding: 30px 6px;
+}
+
+section{
+	padding: 40px 0;
+}
+.heading h1{
+	font-size: 30px;}
+
+.course{
+padding: 12px;
+}
+.course h2{
+	font-size: 18px;
+	font-weight: 600;
+}
+.course ul li{
+	font-size: 12px;
+}
+.course ul li:last-child{
+	display: none;
+}
+.course button{
+    font-size: 14px;
+
+}
+}
+
+
+
+/* sm */
+@media(max-width: 767px){
+	
+	.banner-content h1{
+		font-size: 26px;
+		line-height: 30px;
+	}
+	p{
+		font-size: 14px;
+	}
+	.btn-custom{
+		padding: 8px 20px;
+		font-size: 14px;
+	}
+	.box-item{
+		margin-bottom: 20px;
+	}
+	.course{
+		margin-bottom: 20px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+/* x small */
+@media(max-width: 575px){
+	.banner-content{
+		text-align: center;
+	}
+	.banner-content h1{
+		margin: auto;
+	}
+	.banner-img{
+		margin-top: 20px;
+	}
+}
+
+
+
+
+
+
+
+
+
+
+/* lg */
+@media(max-width: 1199px){
+	
+}
